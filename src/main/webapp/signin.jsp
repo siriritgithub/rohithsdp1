@@ -20,7 +20,7 @@
             <div class="signup-box">
                 <h2>Admin Signup</h2>
                 <p>Moderate and manage posts about Indian heritage and culture.</p>
-                <a href="/adminsignup" class="signup-button">Signup as Admin</a>
+                <a href="/adminlogin" class="signup-button">login as Admin</a>
             </div>
             <div class="divider"></div>
             <div class="signup-box">
